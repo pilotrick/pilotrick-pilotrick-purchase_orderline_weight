@@ -10,10 +10,9 @@
         		<field name="total_weight"/>
 	        </xpath>
         	<xpath expr="//field[@name='order_line']/tree//field[@name='product_uom']" position="after">
-        		<field name="weight"/>
-	            <field name="total_weight"/>
+						<field name="weight"/>
+						<field name="total_weight"/>
 	        </xpath>
 	    </field>
 	</record>
 </odoo>
-

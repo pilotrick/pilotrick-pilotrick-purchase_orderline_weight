@@ -3,7 +3,7 @@
     "name": "Purchase Order Line Volume",
     "summary": "Order Line Volume In Purchase and Report",
     "description": """Order Line Volume In Purchase and Report""",
-    "version": "14.0.1.0.0",
+    #"version": "14.0.1.0.0",
     "category": 'Purchase/Purchase',
     "website": "https://www.warlocktechnologies.com/", 
     'author': 'Astratech',
@@ -15,7 +15,7 @@
     "data": [
         'views/purchase_orderline_volume.xml',
     ],
-    'images': ['static/description/banner.png'],
+    #'images': ['static/description/banner.png'],
     'license': 'LGPL-3',
     'installable': True,
     'auto_install': False,
